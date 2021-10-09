@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gif-Searching-Using-React/static/css/main.2c23383f.chunk.css",
+    "main.js": "/Gif-Searching-Using-React/static/js/main.f079c703.chunk.js",
+    "main.js.map": "/Gif-Searching-Using-React/static/js/main.f079c703.chunk.js.map",
+    "runtime-main.js": "/Gif-Searching-Using-React/static/js/runtime-main.d5477b25.js",
+    "runtime-main.js.map": "/Gif-Searching-Using-React/static/js/runtime-main.d5477b25.js.map",
+    "static/js/2.a501f8f3.chunk.js": "/Gif-Searching-Using-React/static/js/2.a501f8f3.chunk.js",
+    "static/js/2.a501f8f3.chunk.js.map": "/Gif-Searching-Using-React/static/js/2.a501f8f3.chunk.js.map",
+    "index.html": "/Gif-Searching-Using-React/index.html",
+    "static/css/main.2c23383f.chunk.css.map": "/Gif-Searching-Using-React/static/css/main.2c23383f.chunk.css.map",
+    "static/js/2.a501f8f3.chunk.js.LICENSE.txt": "/Gif-Searching-Using-React/static/js/2.a501f8f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5477b25.js",
+    "static/js/2.a501f8f3.chunk.js",
+    "static/css/main.2c23383f.chunk.css",
+    "static/js/main.f079c703.chunk.js"
+  ]
+}
